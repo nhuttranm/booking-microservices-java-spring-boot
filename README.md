@@ -7,14 +7,9 @@
 
 > 🚀 **A practical and imaginary microservices for implementing an infrastructure for up and running distributed system with the latest technology and architecture like Vertical Slice Architecture, Event Driven Architecture, CQRS, DDD, gRpc, MongoDB, RabbitMq in Java Spring Boot.**
 
-> 💡 **This project is not business-oriented and most of my focus was in the thechnical part for implement a distributed system with a sample project. In this project I implemented some concept in microservices like Messaging, Tracing, Event Driven Architecture, Vertical Slice Architecture, CQRS, DDD and gRpc.**
-
 **You can find `.Net` ported of this project in this link:**
 🔗 [booking-microservices](https://github.com/meysamhadeli/booking-microservices)
 
-<div>
-  <a href="https://gitpod.io/#https://github.com/meysamhadeli/booking-microservices-java-spring-boot"><img alt="Open in Gitpod" src="https://gitpod.io/button/open-in-gitpod.svg"/></a>
-</div>
 <div>
   <a href='https://codespaces.new/meysamhadeli/booking-microservices-java-spring-boot?quickstart=1'><img alt='Open in GitHub Codespaces' src='https://github.com/codespaces/badge.svg'></a>
 </div>
