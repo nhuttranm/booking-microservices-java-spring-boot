@@ -1,5 +1,5 @@
 
-@api-gateway=http://localhost:8081
+@api-gateway=http://localhost:8091
 @keycloak-api=http://localhost:8080
 @flight-api=http://localhost:8082
 @passenger-api=http://localhost:8083
