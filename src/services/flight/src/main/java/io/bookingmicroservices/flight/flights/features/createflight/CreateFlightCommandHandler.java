@@ -11,7 +11,6 @@ import io.bookingmicroservices.flight.flights.features.Mappings;
 import io.bookingmicroservices.flight.flights.models.Flight;
 import io.bookingmicroservices.flight.flights.valueobjects.*;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
 @Service
 public class CreateFlightCommandHandler implements ICommandHandler<CreateFlightCommand, FlightDto> {
